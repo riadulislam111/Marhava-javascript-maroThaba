@@ -1463,3 +1463,122 @@
 
 
 
+// function sayHello() {
+//     console.log("Hello, World!");
+// }
+
+// sayHello();
+// sayHello();
+
+
+// function addNumbers(a, b) {
+//     return a + b;
+// }
+
+// let result = addNumbers(5, 10);
+// console.log("Jogfol:", result);
+
+
+// function jogKoro(num1, num2) {
+//     let sum = num1 + num2;
+//     console.log(num1 + " + " + num2 + " =" + sum);
+// }
+
+// jogKoro(5, 7);
+// jogKoro(100, 250);
+// jogKoro(345, 456);
+
+
+// let favoriteMovies = ["Inception", "Avengers", "Titanic", "Interstellar", "Joker"];
+
+// console.log(favoriteMovies[0]);
+// console.log(favoriteMovies[2]);
+
+
+
+// for (let i = 0; i < favoriteMovies.length; i++) {
+//     console.log(favoriteMovies[i]);
+// }
+
+// // favoriteMovies.forEach(function(movie) {
+// //     console.log(movie);
+// // });
+
+
+// favoriteMovies.forEach(movie => console.log(movie));
+
+
+
+// let favoriteMovies = ["inception", "Avengers", "Titanic", "Interstellar", "Joker"];
+
+// console.log("Using for loop:");
+// for (let i = 0; i < favoriteMovies.length; i++) {
+//     console.log(favoriteMovies[i]);
+// }
+
+// console.log("/nUsing forEach:");
+// favoriteMovies.forEach(movie => console.log(movie));
+
+
+// let student = {
+//     name: "Rafi",
+//     age: 20,
+//     subjects: ["Math", "Science", "History"]
+// };
+
+// console.log(student.name);
+// console.log(student.age);
+
+// console.log(student["name"]);
+// console.log(student["age"]);
+
+
+// let student = {
+//     name: "Rafi",
+//     age: 20,
+//     subjects: ["Math", "Physics", "English"],
+//     address: {
+//         city: "Dhaka",
+//         country: "Bangladesh"
+//     }
+// };
+
+// console.log(student.address.city);
+// console.log(student["address"]["country"]);
+
+// console.log(student.subjects[1]);
+
+
+// let student = {
+//     name: "Rafi",
+//     age: 20,
+//     subjects: ["Math", "Physics", "English"]
+// };
+
+// console.log("Name:", student.name);
+// console.log("Age:", student.age);
+// console.log("Subjects:", student.subjects);
+
+// console.log("Subjects List:");
+// student.subjects.forEach(subject => console.log(subject));
+
+
+// array.forEach(function(element, index, array) {
+
+// })
+
+
+let favoriteMovies = ["Inception", "Avengers", "Titanic"];
+
+favoriteMovies.forEach(function(movie) {
+    console.log(movie);
+});
+
+
+
+
+// favoriteMovies.forEach(function(movie, index) {
+//     console.log((index + 1) + ". "+ movie);
+// });
+
+favoriteMovies.forEach(movie => console.log(movie));
