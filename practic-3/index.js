@@ -1362,3 +1362,104 @@
 // }
 
 
+// let age = 17;
+
+// if (age >= 18) {
+//     console.log("Tmi vote dite parba");
+// }else {
+//     console.log("Tumi ekhon o choto, vote dite parba na");
+// }
+
+
+// let age = 18;
+
+// if (age > 18) {
+//     console.log("Adult, vote dite parba");
+// }else if (age === 18) {
+//     console.log("Tmi just 18 holo, congratulations!");
+// }else {
+//     console.log("Chhoto, vote dite parba na");
+// }
+
+
+// let age = 18;
+ 
+// switch (true) {
+//     case (age > 18):
+//         console.log("Adult, vote dite parba");
+//         break;
+//         case (age === 18):
+//             console.log("Just 18 holo, now vote dite parba nah");
+//             break;
+//             default:
+//                 console.log("Vote dite parba na");
+// }
+
+
+// for (let i = 1; i <= 20; i++) {
+//     if (i % 2 === 0) {
+//         console.log(i + "-Even");
+//     }else {
+//         console.log(i + "-Odd");
+//     }
+// }
+
+
+
+// let i = 1;
+// While ( i <= 20) {
+//     if (i % 2 === 0) {
+//         console.log(i + "- Even");
+//     }else {
+//         console.log(i + "- Odd");
+//     }
+// // }
+   
+
+
+
+// let i = 1;
+
+// while (i <= 20) {
+//     if (i % 2 === 0) {
+//         console.log(i + "- Even");
+//     }else {
+//         console.log(i + "- Odd");
+//     }
+//     i++;
+// }
+
+
+
+
+// let numbers = [];
+
+// for (let i = 1; i <= 20; i++) {
+//     numbers.push(i);
+// }
+
+// for (let num of numbers) {
+//     if (num % 2 === 0) {
+//         console.log(num + "- Even");
+//     }else {
+//         console.log(num + "- Odd");
+//     }
+// }
+
+
+// let numbers = [];
+
+// for (let i = 1; i <= 20; i++) {
+//   numbers.push(i);   // array te number add korlam
+// }
+
+// for (let num of numbers) {
+//   if (num % 2 === 0) {
+//     console.log(num + " - Even");
+//   } else {
+//     console.log(num + " - Odd");
+//   }
+// }
+
+
+
