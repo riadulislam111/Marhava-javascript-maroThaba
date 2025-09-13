@@ -1249,3 +1249,116 @@
 // let playTime = 3;
 // playTime = 0;
 // console.log(playTime);
+
+
+// let playTime = 3;
+// playTime = 0;
+// console.log(playTime);
+
+
+// let playTime = 3;
+// playTime = 0;
+// console.log(playTime);
+
+
+// console.log("Hello, JavaScript!");
+
+
+// let a = 10;
+// let b = 5;
+// let sum = a + b;
+// console.log("Jogfol:", sum);
+
+
+// let age = 18;
+
+// if (age >= 18) {
+//     console.log("Tmi vote dite parba");
+// }else {
+//     console.log("Tmi ekhon o choto!");
+// }
+
+// for (let i = 1; i <= 5; i++) {
+//     console.log("Number:", i);
+// }
+
+
+// function greet(name) {
+//     console.log("Hello, " + name + "!");
+// }
+
+// greet("Ratul");
+// greet("Salman");
+
+
+// let fruits = ["apple", "banana", "mango"];
+
+// for (let i = 0; i < fruits.length; i++) {
+//     console.log("Fruit:", fruits[i]);
+// }
+
+
+// let age = 20;
+// console.log(age);
+
+// age = 25;
+// console.log(age);
+
+// age = 34;
+// console.log(age);
+
+// const pi = 3.1416;
+// console.log(pi);
+
+// pi = 3.453;
+// console.log(pi);
+
+
+// let name = "Uba";
+
+// let age = 20;
+
+// let isStudent = false;
+
+// console.log("Name:", name);
+// console.log("Age:", age);
+// console.log("Student kina?", isStudent);
+
+
+// let a = 10;
+// let b = 3;
+
+// console.log("Jog:", a + b);
+// console.log("Biyog:", a - b);
+// console.log("Gun:", a * b);
+// console.log("Vag:", a / b);
+// console.log("Remainder:", a % b);
+
+// let x = 5;
+// let y = "5";
+
+// console.log(x == y);
+// console.log(x === y);
+// console.log(x > 3);
+// console.log(x < 3);
+
+
+// let age = 20;
+// let isStudent = true;
+
+// console.log(age > 18 && isStudent);
+// console.log(age < 18 || isStudent);
+// console.log(!isStudent);
+
+// let num1 = 15;
+// let num2 = 25;
+
+// if (num1 > num2) {
+//     console.log(num1 + "boro" + num2 + "theke");
+// }else if (num1 < num2) {
+//     console.log(num1 + "choto" + num2 + "theke");
+// }else {
+//     console.log("Duita number soman.");
+// }
+
+
