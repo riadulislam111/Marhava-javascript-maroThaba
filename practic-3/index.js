@@ -1563,22 +1563,22 @@
 // student.subjects.forEach(subject => console.log(subject));
 
 
-// array.forEach(function(element, index, array) {
+// // array.forEach(function(element, index, array) {
 
-// })
-
-
-let favoriteMovies = ["Inception", "Avengers", "Titanic"];
-
-favoriteMovies.forEach(function(movie) {
-    console.log(movie);
-});
+// // })
 
 
+// let favoriteMovies = ["Inception", "Avengers", "Titanic"];
 
-
-// favoriteMovies.forEach(function(movie, index) {
-//     console.log((index + 1) + ". "+ movie);
+// favoriteMovies.forEach(function(movie) {
+//     console.log(movie);
 // });
 
-favoriteMovies.forEach(movie => console.log(movie));
+
+
+
+// // favoriteMovies.forEach(function(movie, index) {
+// //     console.log((index + 1) + ". "+ movie);
+// // });
+
+// favoriteMovies.forEach(movie => console.log(movie));
